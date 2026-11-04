@@ -14,4 +14,8 @@
     restote test.py                                                                            
     git restore test.py                                                                        
     git status                                                                                 
-    git status 
+    git remote -v
+    git status                                                                                 
+    git remote add origin https://github.com/jibondba/git-for-devops.git                       
+    git remote -v                                                                              
+    git status     
