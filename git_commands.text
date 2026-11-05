@@ -19,3 +19,6 @@
     git remote add origin https://github.com/jibondba/git-for-devops.git                       
     git remote -v                                                                              
     git status     
+
+    #merge with the master 
+    git reset --hard master
